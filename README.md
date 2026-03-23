@@ -17,7 +17,7 @@ Sistema de login desenvolvido em Java com interface gráfica utilizando Swing.
 ## ▶️ Como executar
 
 1. Clone o repositório
-2. Abra na sua IDE (IntelliJ, Eclipse ou NetBeans)
+2. Abra na sua IDE (NetBeans)
 3. Execute a classe principal
 
 ## 📚 Aprendizados
